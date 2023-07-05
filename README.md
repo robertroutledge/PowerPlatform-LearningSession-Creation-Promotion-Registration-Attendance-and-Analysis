@@ -8,3 +8,4 @@ I used PowerPlatforms to enable an employer of over 1,000 people to:
 6) Send the Learning Team administrator an attendance report after the session using the SendParticipantAttendanceReport Flow
 
 Finally, in real time, the data collected in the sharepoint lists was used to create the Power BI report that I have attached screenshots of.
+The Power BI report contains personal information, so I can not upload it publicly. It was also created primarily to have graphics copied and pasted into District reports, so the visuals are intentionally created to be copied and pasted into MS Word. The three JPGs uploaded are accessed via drilling down on the graphs and using the buttons shown in the pictures
